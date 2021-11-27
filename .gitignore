@@ -1,0 +1,9 @@
+# Project exclude paths
+/actor/target/
+/actor/target/scala-2.12/classes/
+/http/target/
+/http/target/scala-2.12/classes/
+/project/project/target/
+/project/target/
+/target/
+/target/scala-2.12/classes/
